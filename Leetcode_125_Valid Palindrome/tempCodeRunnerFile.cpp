@@ -1,0 +1,2 @@
+
+        if(newString == "") return true;

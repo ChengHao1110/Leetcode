@@ -1,0 +1,1 @@
+                    cout << "left= " << preXorSum[left] << " right= " << preXorSum[right] << endl;

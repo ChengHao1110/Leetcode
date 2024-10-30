@@ -1,0 +1,4 @@
+A A A B B B 2
+A C A B D B 1
+A A A B B B 3
+A A A A A B B B C C C D D 7

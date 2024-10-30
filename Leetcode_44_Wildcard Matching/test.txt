@@ -1,0 +1,7 @@
+aa a
+aa *
+cb ?a
+abcde ab??e
+abcdefgh ab?d*?h
+adceb *a*b
+mississippi m??*ss*?i*pi

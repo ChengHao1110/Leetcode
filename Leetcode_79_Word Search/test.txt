@@ -1,0 +1,20 @@
+3
+A B C E
+S F E S
+A D E E
+ABCESEEEFS
+3
+A B C E
+S F C S
+A D E E
+ABCCED
+3
+A B C E
+S F C S
+A D E E
+SEE
+3
+A B C E
+S F C S
+A D E E
+ABCB
