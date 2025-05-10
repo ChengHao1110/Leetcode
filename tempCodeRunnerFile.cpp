@@ -1,1 +1,1 @@
-
+ cout << x <<endl;

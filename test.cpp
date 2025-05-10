@@ -5,6 +5,8 @@
 #include<sstream>
 #include<algorithm>
 
+
+
 using namespace std;
 
 class Solution {
@@ -13,6 +15,9 @@ public:
 };
 
 int main(){
-    cout << ((-6 % 5) + 5) % 5 << endl;
+    int a[5] = {1, 2, 3, 4, 5};
+    int *p = (int*)(&a+1);
+    cout << *(p) << endl;
+    cout << *(p-1) << endl;
     return 0;
 }
